@@ -1,0 +1,6 @@
+env
+datasets/
+extra_csvs/
+retornos/
+.ipynb_checkpoints/
+
